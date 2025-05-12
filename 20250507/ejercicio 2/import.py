@@ -1,4 +1,4 @@
 from modulo.modulo import saludar
 
-saludar()
+saludar(30, 20)
 

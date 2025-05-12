@@ -1,2 +1,3 @@
-def saludar():
-    print("Hola")
+def saludar(x, y):
+    z = x + y
+    print(z)
